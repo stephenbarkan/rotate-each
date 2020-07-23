@@ -1,0 +1,14 @@
+{
+  "name": "Rotate-Each",
+  "version": "1.0.0",
+  "description": "Your Figma Plugin",
+  "main": "code.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "Stephen Barkan",
+  "license": "",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.15.0"
+  }
+}
